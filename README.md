@@ -17,6 +17,6 @@ The features names are themselves pretty self-explanatory
 ## Concepts Tested:
 * Natural Language Processing
 * Text Processing
-* Stopwords, Tokenization, Lemmatization
-* Bag of Words, TF-IDF
+  * Stopwords, Tokenization, Lemmatization
+  * Bag of Words, TF-IDF
 * Multi-class Classification
